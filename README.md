@@ -10,6 +10,14 @@
 
 ![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/dbef1c2e-c49b-47a8-be9b-d2c13c7bbaa1)
 
+![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/66834354-b6bc-4f42-8611-49992f528329)
+
+![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/1307e167-4b37-429f-bddf-5e5dd71a89b8)
+
+![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/3b4bb0c3-9c6c-4448-8759-955c5c6ec98f)
+
+
+
 ## 2. Create a RabbitMQ server with Azure CLI
 
 We type this command to create a new RabbitMQ server in Azure
