@@ -58,6 +58,7 @@ cat ./bitnami_credentials
 
 http://172.160.241.201:15672/
 
+http://23.97.142.56:15672/
 
 http://localhost:15672/
 
