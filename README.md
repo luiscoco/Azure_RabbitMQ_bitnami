@@ -2,6 +2,8 @@
 
 ## 1. Create a RabbitMQ server with Azure Portal
 
+![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/50dbe78b-ed4c-4d4e-aefe-3552cecd4a50)
+
 
 
 ## 2. Create a RabbitMQ server with Azure CLI
