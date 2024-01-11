@@ -12,9 +12,24 @@
 
 ## 2. Create a RabbitMQ server with Azure CLI
 
+We type this command to create a new RabbitMQ server in Azure
+
 ```
-az vm create --resource-group myRG --name rabbitmq --admin-username azureuser --generate-ssh-keys --image bitnami:rabbitmq:rabbitmq:latest --plan-name rabbitmq --plan-product rabbitmq --plan-publisher bitnami --public-ip-sku Standard
+az vm create ^
+--resource-group myRG ^
+--name rabbitmq ^
+--admin-username azureuser ^
+--generate-ssh-keys ^
+--image bitnami:rabbitmq:rabbitmq:latest ^
+--plan-name rabbitmq ^
+--plan-product rabbitmq ^
+--plan-publisher bitnami ^
+--public-ip-sku Standard
 ```
+
+We connect to the 
+
+
 
 ```
 az account set --subscription 99888cc6-c635-4ebd-b0ac-1be1dace0089
