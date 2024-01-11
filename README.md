@@ -66,4 +66,4 @@ http://localhost:15672/
 
 ![image](https://github.com/luiscoco/Azure_RabbitMQ_bitnami/assets/32194879/e2d80471-841b-4b89-80c5-57617d8a8306)
 
-
+You can use the username:guest and password:guest
