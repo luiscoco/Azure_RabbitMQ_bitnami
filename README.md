@@ -24,7 +24,8 @@ az vm create ^
 --plan-name rabbitmq ^
 --plan-product rabbitmq ^
 --plan-publisher bitnami ^
---public-ip-sku Standard
+--public-ip-sku Standard ^
+--location westeurope
 ```
 
 We connect to the 
