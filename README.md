@@ -31,9 +31,16 @@ az vm create ^
 We connect to the 
 
 
+```
+az account list --output table
+```
 
 ```
 az account set --subscription 99888cc6-c635-4ebd-b0ac-1be1dace0089
+```
+
+```
+az group list --output table
 ```
 
 ```
